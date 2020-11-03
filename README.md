@@ -1,2 +1,2 @@
 # My-Algoexpert-Solutions
-AlgoExpert Solutions
+All 100 AlgoExpert Solutions
